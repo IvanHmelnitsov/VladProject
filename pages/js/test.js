@@ -75,7 +75,7 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: '12. яка криптовалюта найдорожчча?',
+    question: '1. яка криптовалюта найдорожчча?',
     answers: [
       { text: 'Bitcoin', correct: true },
       { text: 'Altcoin', correct: false },
@@ -84,7 +84,7 @@ const questions = [
     ]
   },
   {
-    question: '11. яке спеціальне обладнання використовують майнери?',
+    question: '2. яке спеціальне обладнання використовують майнери?',
     answers: [
       { text: 'Asic', correct: true },
       { text: 'відокарти', correct: false },
@@ -93,7 +93,7 @@ const questions = [
     ]
   },
   {
-    question: '10. яка автомобільна компанія є найдорожчою в світі?',
+    question: '3. яка автомобільна компанія є найдорожчою в світі?',
     answers: [
       { text: 'Toyota', correct: false },
       { text: 'Tesla', correct: true },
@@ -102,7 +102,7 @@ const questions = [
     ]
   },
   {
-    question: '9. яка країна найбільш технологічно розвинута?',
+    question: '4. яка країна найбільш технологічно розвинута?',
     answers: [
       { text: 'США', correct: false },
       { text: 'Україна', correct: false },
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
     {
-      question: '8. в якому штаті розташована штаб-квартира Google?',
+      question: '5. в якому штаті розташована штаб-квартира Google?',
       answers: [
         { text: 'Каліфорнія', correct: true },
         { text: 'Вашингтон', correct: false },
@@ -121,7 +121,7 @@ const questions = [
       ]
     },
     {
-      question: '7. в якому штаті розташована штаб-квартира Microsoft?',
+      question: '6. в якому штаті розташована штаб-квартира Microsoft?',
       answers: [
         { text: 'Каліфорнія', correct: false },
         { text: 'Вашингтон', correct: true },
@@ -130,7 +130,7 @@ const questions = [
       ]
     },
     {
-      question: '6. в якому році був створений Bitcoin',
+      question: '7. в якому році був створений Bitcoin',
       answers: [
         { text: '1998', correct: false },
         { text: '2020', correct: false },
@@ -139,7 +139,7 @@ const questions = [
       ]
     },
     {
-      question: '5. в якому році була створена компанія nVidia?',
+      question: '8. в якому році була створена компанія nVidia?',
       answers: [
         { text: '2007', correct: false },
         { text: '1699', correct: false },
@@ -148,7 +148,7 @@ const questions = [
       ]
     },
     {
-      question: '4. в якому році була створена компанія Intel?',
+      question: '9. в якому році була створена компанія Intel?',
       answers: [
         { text: '2003', correct: false },
         { text: '2000', correct: false },
@@ -157,7 +157,7 @@ const questions = [
       ]
     },
     {
-      question: '3. в якому році був створена компанія AMD?',
+      question: '10. в якому році був створена компанія AMD?',
       answers: [
         { text: '1969', correct: true },
         { text: '2000', correct: false },
@@ -166,7 +166,7 @@ const questions = [
       ]
     },
     {
-      question: '2. в якому році був створений перший комп"ютер?',
+      question: '11. в якому році був створений перший комп"ютер?',
       answers: [
         { text: '1993', correct: false },
         { text: '1962', correct: false },
@@ -175,7 +175,7 @@ const questions = [
       ]
     },
     {
-      question: '1. яка найдавніша операційна система?',
+      question: '12. яка найдавніша операційна система?',
       answers: [
         { text: 'Windows', correct: false },
         { text: 'Linux', correct: false },
